@@ -13,3 +13,6 @@
 [submodule "utils/gtest_runner"]
 	path = utils/gtest_runner
 	url = https://github.com/ospector/gtest-gbar.git
+[submodule "utils/boost_runner"]
+	path = utils/boost_runner
+	url = https://github.com/djeedjay/BoostTestUi.git
