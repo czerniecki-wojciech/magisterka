@@ -10,3 +10,6 @@
 [submodule "lib/boostturtle"]
 	path = lib/boostturtle
 	url = https://github.com/czerniecki-wojciech/turtle.git
+[submodule "utils/gtest_runner"]
+	path = utils/gtest_runner
+	url = https://github.com/ospector/gtest-gbar.git
