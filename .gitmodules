@@ -4,9 +4,6 @@
 [submodule "lib/googlemock"]
 	path = lib/googlemock
 	url = https://github.com/google/googlemock.git
-[submodule "lib/boosttest"]
-	path = lib/boosttest
-	url = https://github.com/boostorg/test.git
 [submodule "lib/boostturtle"]
 	path = lib/boostturtle
 	url = https://github.com/czerniecki-wojciech/turtle.git
