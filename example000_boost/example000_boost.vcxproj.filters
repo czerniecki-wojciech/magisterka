@@ -28,5 +28,8 @@
     <ClCompile Include="example000_boost.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\example000\simple_calc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

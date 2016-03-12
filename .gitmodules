@@ -13,3 +13,6 @@
 [submodule "utils/boost_runner"]
 	path = utils/boost_runner
 	url = https://github.com/djeedjay/BoostTestUi.git
+[submodule "lib/boost"]
+	path = lib/boost
+	url = git@github.com:czerniecki-wojciech/boost_1_60_0.git

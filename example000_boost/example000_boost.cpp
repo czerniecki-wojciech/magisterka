@@ -1,11 +1,11 @@
-// example000_boost.cpp : Defines the entry point for the console application.
-//
 
-#include "stdafx.h"
+#define BOOST_TEST_MAIN
+#include <boost/test/included/unit_test.hpp>
 
+#include "../example000/simple_calc.h"
 
-int main()
+BOOST_AUTO_TEST_CASE(test1)
 {
-    return 0;
+	simple_calc sc;
+	BOOST_TEST(3, sc.addInts(1,2));
 }
-
